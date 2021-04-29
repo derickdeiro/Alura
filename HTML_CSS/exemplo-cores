@@ -1,0 +1,17 @@
+abcdf...
+
+binário 01
+
+numérico 0123456789
+
+hexadecimal 0123456789ABCDEF
+
+RGB = Red Green Blue
+
+# _ _ _ _ _ _
+
+0 = ausência de cor
+
+F = máximo de cor (Full)
+
+# FF0000  == vermelho (red)
